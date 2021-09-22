@@ -16,10 +16,10 @@
 
 ### Books
 
-- [Do Better Scrum](https://www.infoq.com/minibooks/do-better-scrum) - by Peter Hundermark. "An unofficial set of tips and insights into how to implement Scrum well."
+- [Do Better Scrum](https://github.com/Bibliteca-jarcor/awesome-agile/blob/master/books/InfoQ-Do-Better-Scrum-Minibook.pdf) - by Peter Hundermark. "An unofficial set of tips and insights into how to implement Scrum well."
 
-- [Real Life Scrum](https://www.infoq.com/minibooks/real-life-scrum) - by Jesper Boeg. "This mini-book is NOT about finding THE right answer, but aims to highlight common problems, solutions and tradeoffs teams and organizations face in their continuous transition to a more effective use of the principles behind Scrum. It focuses on solving real problems when working with Scrum and prioritizing value delivery, motivation and customer satisfaction higher than the process itself."
+- [Real Life Scrum](https://github.com/Bibliteca-jarcor/awesome-agile/blob/master/books/Real%2Blife%2Bscrum_final1.pdf) - by Jesper Boeg. "This mini-book is NOT about finding THE right answer, but aims to highlight common problems, solutions and tradeoffs teams and organizations face in their continuous transition to a more effective use of the principles behind Scrum. It focuses on solving real problems when working with Scrum and prioritizing value delivery, motivation and customer satisfaction higher than the process itself."
 
-- [Scrum and XP from the Trenches](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) - by Henrik Kniberg. A detailed overview of how a medium-sized company implemented Scrum and XP. Lots of practical tips.
+- [Scrum and XP from the Trenches](https://github.com/Bibliteca-jarcor/awesome-agile/blob/master/books/Scrum-and-XP-from-the-Trenches-2nd-edition.pdf) - by Henrik Kniberg. A detailed overview of how a medium-sized company implemented Scrum and XP. Lots of practical tips.
 
-- [The Scrum Primer](https://www.infoq.com/minibooks/Scrum_Primer) - by Pete Deemer, Gabrielle Benefield, Craig Larman, and Bas Vodde. "A lightweight guide to the theory and practice of Scrum."
+- [The Scrum Primer](https://github.com/Bibliteca-jarcor/awesome-agile/blob/master/books/scrumprimer20.pdf) - by Pete Deemer, Gabrielle Benefield, Craig Larman, and Bas Vodde. "A lightweight guide to the theory and practice of Scrum."
