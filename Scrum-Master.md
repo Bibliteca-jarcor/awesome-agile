@@ -26,4 +26,4 @@
 
 ### Books
 
-- [Confessions of a Scrum Master](https://www.infoq.com/minibooks/confessions-scrum-master) - by Paul VII
+- [Confessions of a Scrum Master](https://github.com/Bibliteca-jarcor/awesome-agile/blob/master/books/Confessions%2Bof%2Ba%2BScrum%2BMaster.pdf) - by Paul VII
